@@ -1,0 +1,38 @@
+.body {
+  background-color: #fff;
+}
+
+.div-header {
+  height: 60px;
+  color: #003373;
+  font-size: 12px;
+  padding-top: 10px;
+}
+
+.myform {
+  background-color: #003373;
+  color: #fff;
+  border-radius: 10px;
+  padding-bottom: 20px;
+}
+
+.row-sexo {
+  padding: 10px;
+}
+
+.btn-clear {
+  background-color: #bebebe !important;
+  color: #003373 !important;
+  border-color: #bebebe !important;
+}
+
+.icons {
+  padding: 4%;
+  font-size: 25px;
+  color: #003373;
+}
+
+.myfooter {
+  background-color: #bebebe;
+  color: #fff;
+}
